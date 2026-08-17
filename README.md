@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -5,16 +6,23 @@
         <meta name="viewport" 
         content="width=device-width, initial-scale=1.0">
         <title>blog</title>
+        <style>
+            header{
+                background-color: blue;                
+            }
+        </style>
     </head>
     <body>
-        <h1>meu blog tech</h1>
-        <p>vou compartilhar conhecimento sobre progamação</p>
-        
-        <h2>meu primeiro post</h2>
-        <P>por: miqueias lima caetano</P>
-        <p>boas-vindas ao meu novo blog! aqui vou
-        compatilhar dicas de progamação e curiosidadesda
-        area de tecnologia</p>
+        <header>
+            <h1>meu blog tech</h1>
+            <p>vou compartilhar conhecimento sobre tecnologia e progamação</p>
+        </header>
+        <main>
+            <h2>meu primeiro post</h2>
+            <P>por: miqueias lima caetano</P>
+            <p>boas-vindas ao meu novo blog! aqui vou
+            compatilhar dicas de progamação e curiosidadesda
+            area de tecnologia</p>
 
     </body>
 </html>
