@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -8,21 +7,25 @@
         <title>blog</title>
         <style>
             header{
-                background-color: blue; 
+                background-color: rgb(115, 184, 240); 
                 color: #FFFFFF;   
                 text-align: center;
                 max-width: 800px;   
                 margin: 0 auto;  
                 padding: 16px;
-                border: 5px solid #fc0303;                  
+                border: 5px solid #049be0;                  
             }
             main {
                 background-color: #FFFFFF;
-                color: #3551ee;
+                color: #000000;
                 max-width: 800px;   
                 margin: 0 auto; 
                 padding: 16px;        
             }    
+            img{
+                width: 80px;
+                height: 80px;
+            }
         </style>
     </head>
     <body>
@@ -31,7 +34,7 @@
             <p>vou compartilhar conhecimento sobre tecnologia e progamação</p>
         </header>
         <main>
-            <img src="" alt="">
+            <img src="imagem-blog.png" alt="Logotipo para blog de tecnologia na educação mostrando livro com conexões elétricas, lâmpada de engrenagem e capelo de formatura.">
             <h2>meu primeiro post</h2>
             <P>por: miqueias lima caetano</P>
             <p>boas-vindas ao meu novo blog! aqui vou
@@ -40,3 +43,5 @@
         </main>
     </body>
 </html>
+
+
