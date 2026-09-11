@@ -34,7 +34,7 @@
             <p>vou compartilhar conhecimento sobre tecnologia e progamação</p>
         </header>
         <main>
-            <img src="imagem-blog.png" alt="Logotipo para blog de tecnologia na educação mostrando livro com conexões elétricas, lâmpada de engrenagem e capelo de formatura.">
+            <img src="imagem-blog.png" alt="">
             <h2>meu primeiro post</h2>
             <P>por: miqueias lima caetano</P>
             <p>boas-vindas ao meu novo blog! aqui vou
